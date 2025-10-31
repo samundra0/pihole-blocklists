@@ -22,8 +22,10 @@
 0.0.0.0 app.privadovpn.com
 0.0.0.0 apc-us-ny-001.avira.privadovpn.com
 0.0.0.0 ns1dnsleak.privadovpn.com
+0.0.0.0 ddf54c84dd9f6308e05e7726f8279866.privadovpn.com
 0.0.0.0 affiliates.privadovpn.com
 0.0.0.0 status.privadovpn.com
+0.0.0.0 check1.privadovpn.com
 0.0.0.0 utils.privadovpn.com
 0.0.0.0 r.privadovpn.com
 0.0.0.0 check.privadovpn.com

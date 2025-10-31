@@ -5,6 +5,7 @@
 0.0.0.0 go.freevpnplanet.com
 0.0.0.0 rtb-useast.freevpnplanet.com
 0.0.0.0 debug.freevpnplanet.com
+0.0.0.0 rtb-useast-v4.freevpnplanet.com
 0.0.0.0 cdn.freevpnplanet.com
 0.0.0.0 old.freevpnplanet.com
 0.0.0.0 promo.freevpnplanet.com
@@ -12,6 +13,7 @@
 0.0.0.0 www.freevpnplanet.com
 0.0.0.0 cdn2-test.freevpnplanet.com
 0.0.0.0 personal.freevpnplanet.com
+0.0.0.0 rtb-apac-v4.freevpnplanet.com
 0.0.0.0 dev-personal.freevpnplanet.com
 0.0.0.0 search.freevpnplanet.com
 0.0.0.0 connect.freevpnplanet.com
@@ -27,9 +29,11 @@
 0.0.0.0 auth.freevpnplanet.com
 0.0.0.0 static.freevpnplanet.com
 0.0.0.0 cdn-test.freevpnplanet.com
+0.0.0.0 rtb-eu-v4.freevpnplanet.com
 0.0.0.0 xml.freevpnplanet.com
 0.0.0.0 support.freevpnplanet.com
 0.0.0.0 xml-v4.freevpnplanet.com
+0.0.0.0 seo-spider.freevpnplanet.com
 0.0.0.0 dev-account.freevpnplanet.com
 0.0.0.0 eu-north-1.freevpnplanet.com
 0.0.0.0 rtb-apac.freevpnplanet.com
